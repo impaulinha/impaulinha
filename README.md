@@ -30,3 +30,5 @@
 <img height='190em' src='https://github-readme-stats.vercel.app/api?username=impaulinha&show_icons=true&theme=dracula'><img src='https://user-images.githubusercontent.com/69828625/174412380-5059c628-778c-40cd-aa09-80b9b095a8dc.gif' width=190 />
 
 ---
+
+<img src="https://github.com/impaulinha/impaulinha/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
