@@ -1,4 +1,4 @@
-## Oie <img src='https://user-images.githubusercontent.com/69828625/174398653-ab352a25-7279-4eac-8045-704c85457093.gif' alt='Oie' width=25 />, eu sou a Ana Paula <img src='https://user-images.githubusercontent.com/69828625/174399558-fe4bda96-0f98-40aa-b435-49d466a0b9d9.gif' alt='Cat' width=35 />
+## Oii <img src='https://user-images.githubusercontent.com/69828625/174398653-ab352a25-7279-4eac-8045-704c85457093.gif' alt='Oii' width=25 />, meu nome é Ana Paula <img src='https://user-images.githubusercontent.com/69828625/174399558-fe4bda96-0f98-40aa-b435-49d466a0b9d9.gif' alt='Cat' width=35 />
 
 >Mobile Developer | Front-end | React Native
 
